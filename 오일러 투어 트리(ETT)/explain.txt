@@ -1,9 +1,0 @@
-ETT란 트리 모양을 하위 자식들이 얼마나 있는지 나타낸 배열로 전환하는 방식입니다.
-주로 IN,OUT으로 구분하여 만듭니다.
-cpp에 들어있는 코드는 https://www.acmicpc.net/problem/2820로 백준 2820번 문제 답 코드 입니다.
-
-
-도움 받은 사이트:
-https://garrrruii.tistory.com/57
-
-https://anz1217.tistory.com/41
