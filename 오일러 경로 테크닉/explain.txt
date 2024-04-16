@@ -1,0 +1,6 @@
+오일러 경로 테크닉은 단순히 하위 자식들을 구분하여 배열로 나타낸 기법입니다.
+올린 cpp코드는 백준 2820번 문제 풀이코드입니다.
+
+도움 받은 사이트:
+https://anz1217.tistory.com/41
+https://garrrruii.tistory.com/57
