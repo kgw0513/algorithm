@@ -1,0 +1,8 @@
+알고리즘 작동 방식 이해하는데 도움을 받은 사이트:
+https://wooono.tistory.com/401
+
+코드로 이해하는데 도움을 받은 사이트:
+https://velog.io/@kasterra/%EC%9C%A0%EB%9F%89-%EA%B7%B8%EB%9E%98%ED%94%84-%EC%97%90%EB%93%9C%EB%AA%AC%EB%93%9C-%EC%B9%B4%ED%94%84-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98
+
+
+또한 내 코드 상으로 설명해 놓았으니 참고하면 좋을것.
