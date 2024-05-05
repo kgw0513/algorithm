@@ -1,0 +1,10 @@
+알고리즘 작동 방식 이해하는데 도움을 받은 사이트:
+https://wooono.tistory.com/401
+
+코드로 이해하는데 도움을 받은 사이트:
+https://anz1217.tistory.com/51
+
+
+작성한 코드는
+https://www.acmicpc.net/problem/2316
+문제 풀이 코드입니다.
