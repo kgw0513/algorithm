@@ -1,9 +1,9 @@
-알고리즘 작동 방식 이해하는데 도움을 받은 사이트:
+디닉 알고리즘 작동 방식 이해하는데 도움을 받은 사이트:
 https://greeksharifa.github.io/algorithm%20&%20data%20structure/2018/07/11/algorithm-dinic/
 
 코드로 이해하는데 도움을 받은 사이트:
 https://www.crocus.co.kr/1088
 (특히 이 사이트에서 dfs각 정점에서 방문 기록을 저장하는 이유 등, 중요한것을 알게 도아줌.)
 
-
-
+최대유량 최소 컷 이해하는데 도움을 받은 사이트:
+https://m.blog.naver.com/jqkt15/222063980106
