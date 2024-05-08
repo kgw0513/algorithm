@@ -1,0 +1,2 @@
+비록 코드는 python이지만 설명 잘 되어있어서 가져옴.
+https://gmlwjd9405.github.io/2018/08/31/algorithm-union-find.html
