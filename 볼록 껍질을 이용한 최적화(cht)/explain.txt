@@ -1,5 +1,9 @@
-크게 도움 받은 곳 :
-https://blog.naver.com/PostView.nhn?blogId=kks227&logNo=221418495037&proxyReferer=https:%2F%2Fwww.google.com%2F
+cht에 대한 정의를 이해하기 쉬웠던 곳 :
+https://blog.naver.com/kks227/221418495037
+https://www.weeklyps.com/entry/%EC%BB%A8%EB%B2%A1%EC%8A%A4-%ED%97%90-%ED%8A%B8%EB%A6%AD-Convex-Hull-Trick
+
+cht 코드를 어떻게 짜야할지 이해하기 쉬웠던 곳 :
+https://blog.naver.com/kks227/221418495037
 
 문제 푼 번호 :
 https://www.acmicpc.net/problem/13263
