@@ -1,0 +1,4 @@
+단절점과 단절선을 이해하기에 좋은 사이트 및 코드를 어떻게 짜야할지 도움을 준 사이트 :
+https://velog.io/@corone_hi/%EB%8B%A8%EC%A0%88%EC%A0%90-%EB%8B%A8%EC%A0%88%EC%84%A0-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98
+
+단절점 푼 문제 사이트 : https://www.acmicpc.net/problem/10292
