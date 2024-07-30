@@ -1,0 +1,11 @@
+pbds가 뭔지 공부하면서 코드를 이해한 곳
+https://daisylum.tistory.com/18
+
+pbds로 푼 문제
+https://www.acmicpc.net/problem/1572
+
+
+pbds란 단순하게 생각해서 set의 기능에서 위치 찾는 기능을 개선시켜 만든거라 생각하면 된다.
+명령어가 어떤게 있는지 궁금하면 사이트에 들어가 공부하면 되고.
+
+그외의 설명은 코드에 적었다.
