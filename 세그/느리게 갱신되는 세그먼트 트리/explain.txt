@@ -1,0 +1,6 @@
+공부한 곳 :
+https://book.acmicpc.net/ds/segment-tree-lazy-propagation
+
+문제 번호:
+23035번 (https://www.acmicpc.net/problem/23035)
++좌표압축도 되어있음.
