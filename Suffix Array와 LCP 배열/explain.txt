@@ -9,3 +9,12 @@ https://blog.naver.com/kks227/221028710658
 
 해당 코드 풀이 문제 :
 https://www.acmicpc.net/problem/9248
+
+위의 내용들은 다 O(Nlg²N)이지만
+
+O(NlgN)시간복잡도를 가진 방법이 있다
+https://beapro.tistory.com/2 (이게 가장 잘 설명해서 이거 보는게 좋을듯)
+https://blog.naver.com/kks227/221220566367
+https://blog.naver.com/chogahui05/221470963017
+
+코드 구현은 안했다.
