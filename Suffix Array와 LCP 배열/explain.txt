@@ -1,0 +1,11 @@
+Suffix Array및 LCP배열 
+코드 이해하기 좋았던 사이트 : 
+https://blog.naver.com/kks227/221028710658
+
+설명 이해하기 좋았던 사이트 :
+https://beapro.tistory.com/2 랑
+https://blog.naver.com/kks227/221028710658
+같이 보면 이해하기 좋은듯.
+
+해당 코드 풀이 문제 :
+https://www.acmicpc.net/problem/9248
