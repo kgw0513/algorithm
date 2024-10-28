@@ -17,4 +17,5 @@ https://beapro.tistory.com/2 (이게 가장 잘 설명해서 이거 보는게 �
 https://blog.naver.com/kks227/221220566367
 https://blog.naver.com/chogahui05/221470963017
 
+현재 올린 O(Nlg²N)에서 sort구간만 Radix Sort로 바꾸면 금방 되기에 따로 
 코드 구현은 안했다.
