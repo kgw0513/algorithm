@@ -1,0 +1,12 @@
+기본적인 k-d tree틀을 이해하는데 도움을 받은 사이트 :
+https://haamjamie.tistory.com/m/31
+https://ghqls0210.tistory.com/347 (강추)
+
+k-d tree의 대표적 사용 예시인 가까운 정점 찾는 방식(knn)에 대해 이해하는데 도움을 받은 사이트 :
+https://www.quora.com/How-does-a-k-d-tree-find-the-K-nearest-neighbors
+
+k-d tree를 통해 가까운 정점을 찾는 방법을 이해한 사이트 :
+https://velog.io/@nabi4622/KD-Tree%EC%99%80-Nearest-Neighbor-search
+
+k-d tree를 이용해서 작성해본 코드 (삭제 미구현, 삽입 지멋대로 작성) :
+https://www.acmicpc.net/source/share/ede50f312b3d404d9e214372cc0d3958
