@@ -1,0 +1,3 @@
+역삼각함수에 대한 설명(ex. acos,asin,...) : https://supermemi.tistory.com/61
+atan, atan2에 대한 설명 : https://supermemi.tistory.com/93
+여기서 엄청 잘 설명해준다.

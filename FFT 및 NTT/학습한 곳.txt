@@ -1,0 +1,21 @@
+푸리에 급수 : 
+https://supermemi.tistory.com/95
+푸리에 변환(FT)과 역 푸리에 변환(IFT) : 
+https://supermemi.tistory.com/97 
+(주의점 : 
+- 수식1에서 적분 -T/2부터 T/2까지 되어 있어야 할게 T/2부터 T/2까지로 되어 있으니 주의. 그리고 왜 그렇게 적혀있냐면 0부터 T는 T 주기성 때문에 -T/2부터 T/2까지 나타낼 수 있기 때문이다.
+)
+
+이산 푸리에 변환이 뭔지 그리고 푸리에 변환의 종류에 대한 설명 :
+- https://infograph.tistory.com/284#google_vignette (CTFT[FT], DTFT, DFT 각 종류)
+- DTFT : https://infograph.tistory.com/322
+- DFT : https://infograph.tistory.com/323, https://infograph.tistory.com/325
+- DFT 원리에 대해 이해를 주는 곳 : https://infograph.tistory.com/326 (1부터 4까지 보기)
+- FFT : https://infograph.tistory.com/331 (정보 : 7-1에서의 4번 공식은 k에 대해 들어간거라 k의 0부터 7까지 들어가서 N번 들어갔다고 설명중)
+- FFT 코드 이해하는데 도움을 준 곳 : https://justicehui.github.io/hard-algorithm/2019/09/04/FFT/(추천), https://blog.naver.com/jinhan814/222099028143 (비재귀도 설명해줌)
+- OnlineFFT (대충 설명하자면 기존의 FFT는 벡터 A와 벡터 B의 정보가 주어져야 계산하는데, OnlineFFT는 A원소와 B원소가 매번 주어질때마다 계산하는 방식) : https://blog.naver.com/jinhan814/223203500880
+
+2차원에 대한 DFT 및 FFT 설명 : file:///C:/Users/kgw0513/OneDrive/Desktop/%EA%B9%83%ED%97%99%20%EA%B8%B0%EB%A1%9D%EC%9A%A9/algorithm/FFT/CH_09_%EB%B3%80%ED%99%98%EC%98%81%EC%97%AD_kys.pdf 
++ FFT 역시 DFT처럼 1차원 방향(EX. 행 기준)으로 FFT 수행 후 전치행렬로 뒤집은 다음 한번 더 그쪽 방향에 대해 FFT 수행을 하면 2차원 FFT수행이 된다. (이 반대는 역FFT)
+
+NTT(FTT의 최적화)에 대한 설명 : https://m.blog.naver.com/yyhjin12/223044578555 (아직 학습 안함)
