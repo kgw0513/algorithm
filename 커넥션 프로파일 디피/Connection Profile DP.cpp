@@ -1,4 +1,3 @@
-//BOJ 1144 싼 비용
 #include <iostream>
 #include <algorithm>
 #include <string>
@@ -68,7 +67,16 @@ typedef complex<double> cpx;
 int n, m;
 int maps[10][10];
 
-map<string, int>arr[10][10];
+namespace std {
+    struct string_hash {
+        size_t operator()(const string n) const {
+            hash<string> a{}; size_t sa = a(n);
+            return sa;
+        }
+    };
+}
+
+unordered_map<string, int, string_hash>arr[10][10];
 
 void Set_standard(string& state) {
     string h = state;
@@ -165,6 +173,7 @@ int Dfs(intint p, string& state) {
     string new_state = state;
     Merge_State(p, new_state);
 
+    //cout << Dfs(new_p, new_state) << "+" << maps[p.fi][p.se] << "?\n";
     ans = min(ans, Dfs(new_p, new_state) + maps[p.fi][p.se]);
 
     if (!bState_counting_overflow(state))ans = min(ans, 0); //지금 상태로 끝내도 되니 확인
